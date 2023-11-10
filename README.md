@@ -1,1 +1,1 @@
-chore: add html file
+[Igor RsSchool](https://Igor1II1.github.io/rsschool-cv/)
